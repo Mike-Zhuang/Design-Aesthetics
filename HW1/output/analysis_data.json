@@ -1,0 +1,317 @@
+{
+  "image_size": {
+    "width": 4267,
+    "height": 4267
+  },
+  "h_lines": [
+    {
+      "center": 616.5,
+      "thickness": 83,
+      "start": 575,
+      "end": 658,
+      "category": "中线"
+    },
+    {
+      "center": 2475.5,
+      "thickness": 83,
+      "start": 2434,
+      "end": 2517,
+      "category": "中线"
+    },
+    {
+      "center": 2760.5,
+      "thickness": 71,
+      "start": 2725,
+      "end": 2796,
+      "category": "细线"
+    },
+    {
+      "center": 3806.5,
+      "thickness": 87,
+      "start": 3763,
+      "end": 3850,
+      "category": "中线"
+    }
+  ],
+  "v_lines": [
+    {
+      "center": 421.0,
+      "thickness": 58,
+      "start": 392,
+      "end": 450,
+      "category": "细线"
+    },
+    {
+      "center": 642.0,
+      "thickness": 92,
+      "start": 596,
+      "end": 688,
+      "category": "粗线"
+    },
+    {
+      "center": 1652.0,
+      "thickness": 96,
+      "start": 1604,
+      "end": 1700,
+      "category": "粗线"
+    },
+    {
+      "center": 2035.5,
+      "thickness": 95,
+      "start": 1988,
+      "end": 2083,
+      "category": "粗线"
+    },
+    {
+      "center": 3598.0,
+      "thickness": 62,
+      "start": 3567,
+      "end": 3629,
+      "category": "细线"
+    },
+    {
+      "center": 3873.0,
+      "thickness": 96,
+      "start": 3825,
+      "end": 3921,
+      "category": "粗线"
+    }
+  ],
+  "color_blocks": [
+    {
+      "color": "yellow",
+      "x": 688,
+      "y": 2796,
+      "w": 916,
+      "h": 967,
+      "area": 883034,
+      "bbox_area": 885772,
+      "cx": 1146.0,
+      "cy": 3279.5
+    },
+    {
+      "color": "blue",
+      "x": 2083,
+      "y": 0,
+      "w": 1484,
+      "h": 571,
+      "area": 847309,
+      "bbox_area": 847364,
+      "cx": 2825.0,
+      "cy": 285.5
+    },
+    {
+      "color": "red",
+      "x": 3919,
+      "y": 662,
+      "w": 348,
+      "h": 1772,
+      "area": 613048,
+      "bbox_area": 616656,
+      "cx": 4093.0,
+      "cy": 1548.0
+    },
+    {
+      "color": "green",
+      "x": 451,
+      "y": 663,
+      "w": 142,
+      "h": 1771,
+      "area": 249477,
+      "bbox_area": 251482,
+      "cx": 522.0,
+      "cy": 1548.5
+    },
+    {
+      "color": "red",
+      "x": 3629,
+      "y": 3850,
+      "w": 196,
+      "h": 417,
+      "area": 81646,
+      "bbox_area": 81732,
+      "cx": 3727.0,
+      "cy": 4058.5
+    },
+    {
+      "color": "blue",
+      "x": 0,
+      "y": 2521,
+      "w": 388,
+      "h": 200,
+      "area": 77581,
+      "bbox_area": 77600,
+      "cx": 194.0,
+      "cy": 2621.0
+    },
+    {
+      "color": "red",
+      "x": 1700,
+      "y": 2519,
+      "w": 288,
+      "h": 202,
+      "area": 57562,
+      "bbox_area": 58176,
+      "cx": 1844.0,
+      "cy": 2620.0
+    }
+  ],
+  "x_coords": [
+    0,
+    421,
+    642,
+    1652,
+    2035,
+    3598,
+    3873,
+    4267
+  ],
+  "y_coords": [
+    0,
+    616,
+    2475,
+    2760,
+    3806,
+    4267
+  ],
+  "structure": {
+    "visual_center": [
+      2294.9008742867913,
+      2037.8353399933267
+    ],
+    "geometric_center": [
+      2133.5,
+      2133.5
+    ],
+    "center_offset": [
+      3.7825374803560194,
+      -2.2419653153661434
+    ],
+    "area_stats": {
+      "total": 18207289,
+      "colored": 2809657,
+      "white": 11885891,
+      "black_lines": 3511741,
+      "colored_ratio": 15.431495594978472,
+      "white_ratio": 65.28094874530744,
+      "black_ratio": 19.287555659714084
+    }
+  },
+  "proportions": {
+    "h_gaps": [
+      616.5,
+      1859.0,
+      285.0,
+      1046.0,
+      460.5
+    ],
+    "v_gaps": [
+      421.0,
+      221.0,
+      1010.0,
+      383.5,
+      1562.5,
+      275.0,
+      394.0
+    ],
+    "golden_matches": [
+      {
+        "type": "水平",
+        "golden_pos": 2637.2,
+        "line_pos": 2475.5,
+        "deviation_pct": 3.79
+      },
+      {
+        "type": "水平",
+        "golden_pos": 2637.2,
+        "line_pos": 2760.5,
+        "deviation_pct": 2.89
+      },
+      {
+        "type": "垂直",
+        "golden_pos": 1629.8,
+        "line_pos": 1652.0,
+        "deviation_pct": 0.52
+      }
+    ],
+    "color_areas": {
+      "yellow": {
+        "area": 883034,
+        "ratio_of_canvas": 4.85,
+        "ratio_of_colored": 31.43
+      },
+      "blue": {
+        "area": 924890,
+        "ratio_of_canvas": 5.08,
+        "ratio_of_colored": 32.92
+      },
+      "red": {
+        "area": 752256,
+        "ratio_of_canvas": 4.13,
+        "ratio_of_colored": 26.77
+      },
+      "green": {
+        "area": 249477,
+        "ratio_of_canvas": 1.37,
+        "ratio_of_colored": 8.88
+      }
+    },
+    "cell_area_stats": {
+      "max": 2905617,
+      "min": 62985,
+      "mean": 520208.3,
+      "std": 579891.8,
+      "max_min_ratio": 46.13
+    }
+  },
+  "units": {
+    "unit_categories": {
+      "大": 3,
+      "中": 20,
+      "小": 12
+    },
+    "type_combinations": {
+      "white_中": 16,
+      "white_小": 9,
+      "blue_中": 1,
+      "green_中": 1,
+      "white_大": 3,
+      "red_中": 1,
+      "blue_小": 1,
+      "red_小": 2,
+      "yellow_中": 1
+    },
+    "quadrant_distribution": {
+      "左上": {
+        "green": 249477
+      },
+      "右上": {
+        "blue": 847309,
+        "red": 613048
+      },
+      "左下": {
+        "yellow": 883034,
+        "blue": 77581,
+        "red": 57562
+      },
+      "右下": {
+        "red": 81646
+      }
+    },
+    "edge_vs_inner": {
+      "edge_count": 4,
+      "inner_count": 3,
+      "edge_colors": [
+        "blue",
+        "red",
+        "red",
+        "blue"
+      ],
+      "inner_colors": [
+        "yellow",
+        "green",
+        "red"
+      ]
+    }
+  }
+}
