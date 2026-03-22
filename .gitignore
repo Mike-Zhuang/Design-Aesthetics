@@ -9,6 +9,7 @@ Icon
 
 # User Documents
 *.pdf
+*.zip
 
 # Python
 __pycache__/
